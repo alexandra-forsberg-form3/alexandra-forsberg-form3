@@ -6,7 +6,7 @@ I'm a Talent Acquisition professional helping startups grow 🌱 Now Talent Lead
 
 Form3 is fully remote, series-c funded, 450+ person payments technology scale-up 🚀🚀🚀 In 5 short years we have become mission-critical to some of the largest UK 🇬🇧, European 🇪🇺 and US 🇺🇸 banks 🏦 as well as payment institutions, card payment processors and licensed Fintechs. We’re now processing a huge volume of transactions and seen as the leading API-first, cloud-native payments technology provider in the UK and Europe and we’re about to replicate our success on a global scale 🌎 
 
-Interested in working with Go, the latest infrastructure tools in a highly available distributed systems environment? We’re actively hiring remotely based Senior Engineers across the UK, Europe, Canada and Argentina 👩‍💻👨‍💻. To find out more, connect with me on [LinkedIn](https://www.linkedin.com/in/alexandraforsberg/) or apply directly through our [careers page](https://www.form3.tech/careers/vacancies?jobCategory=Engineering). 
+Interested in working with [Go](https://github.com/golang/go), the latest infrastructure tools in a highly available distributed systems environment? We’re actively hiring remotely based Senior Engineers across the UK, Europe, Canada and Argentina 👩‍💻👨‍💻. To find out more, connect with me on [LinkedIn](https://www.linkedin.com/in/alexandraforsberg/) or apply directly through our [careers page](https://www.form3.tech/careers/vacancies?jobCategory=Engineering). 
 
 ### Why join [Form3](www.form3.tech)?
 
