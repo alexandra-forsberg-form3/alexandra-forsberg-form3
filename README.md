@@ -17,7 +17,7 @@ Interested in working with Go, the latest infrastructure tools in a highly avail
 - Code: Go, containerised microservices, CQRS, open-source 
 - Ways of working: TDD/BDD, Pairing, DevSecOps, XP 
 
-**Cool, complex challenges🧠**
+**Solve interesting & complex challenges🧠**
 - We offer our clients an active-active multi-cloud architecture. That in it’s own right is a really cool challenge! 
 - We’re processing huge volumes of transactions, with virtually unlimited number of users and all our services have to be able to scale.
 - Other challenges you will work on will revolve around reliability, latency between clouds, service discovery to latency between clouds.  
@@ -26,7 +26,7 @@ Interested in working with Go, the latest infrastructure tools in a highly avail
 
 Our engineers have built an amazing culture based around autonomy, the DevOps model and open-source community. All our engineers have e2e ownership; from testing, deployment and infrastructure operations. 
 
-**Great benefits🪴**
+**Feel looked after with🪴**
 - 30 days annual leave plus Bank Holidays 
 - Remote friendly environment 
 - Remote working equipment allowance
