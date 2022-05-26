@@ -25,6 +25,7 @@ Interested in working with Go, the latest infrastructure tools in a highly avail
 - Other challenges you will work on will revolve around reliability, latency between clouds, service discovery to latency between clouds.  
 
 **Add to our best in-class engineering culture🪴**
+
 Our engineers have built an amazing culture based around autonomy, the DevOps model and open-source community. All our engineers have e2e ownership; from testing, deployment and infrastructure operations. 
 
 **Great benefits🪴**
