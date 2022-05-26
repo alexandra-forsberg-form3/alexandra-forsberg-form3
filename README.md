@@ -26,7 +26,7 @@ Interested in working with Go, the latest infrastructure tools in a highly avail
 
 Our engineers have built an amazing culture based around autonomy, the DevOps model and open-source community. All our engineers have e2e ownership; from testing, deployment and infrastructure operations. 
 
-**Feel looked after with🪴**
+**Feel looked after🪴**
 - 30 days annual leave plus Bank Holidays 
 - Remote friendly environment 
 - Remote working equipment allowance
