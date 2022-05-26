@@ -2,7 +2,7 @@
 
 ### Great to see you here!
 
-I'm a Talent Acquisition professional helping startups grow 🌱 Now Talent Lead at [Form3](https://github.com/form3tech); one of the fastest and most watched fintech scale-ups in Europe! I joined Form3 in 2018 as their 2nd TA hire and I’ve had the delight of helping the business grow from 40 to 450+ remotely based employees. Currently leading a team of 5 TA’s focused on scaling our engineering teams globally.
+I'm a Talent Acquisition professional helping startups grow 🌱 Now Talent Lead at [Form3](https://github.com/form3tech); one of the fastest and most watched fintech scale-ups in Europe! I joined Form3 in 2018 as their 2nd TA hire and I’ve had the delight of helping the business grow from 40 to 450+ remotely based employees.  Currently leading a team of 5 TA’s focused on scaling our engineering teams globally.
 
 Form3 is fully remote, series-c funded, 450+ person payments technology scale-up 🚀🚀🚀 In 5 short years we have become mission-critical to some of the largest UK 🇬🇧, European 🇪🇺 and US 🇺🇸 banks 🏦 as well as payment institutions, card payment processors and licensed Fintechs. We’re now processing a huge volume of transactions and seen as the leading API-first, cloud-native payments technology provider in the UK and Europe and we’re about to replicate our success on a global scale 🌎 
 
@@ -18,7 +18,7 @@ Interested in working with [Go](https://github.com/golang/go), the latest infras
 - Ways of working: TDD/BDD, Pairing, DevSecOps, XP 
 
 **Solve interesting & complex challenges🧠**
-- We offer our clients an active-active multi-cloud architecture. That in it’s own right is a really cool challenge! 
+- We offer our clients an active-active [multi-cloud architecture](https://www.youtube.com/watch?v=fGbWgo6p0XQ). That in it’s own right is a huge challenge! 
 - We’re processing huge volumes of transactions, with virtually unlimited number of users and all our services have to be able to scale.
 - Other challenges you will work on will revolve around reliability, latency between clouds, service discovery to latency between clouds.  
 
@@ -51,7 +51,7 @@ Our engineers have built an amazing culture based around autonomy, the DevOps mo
 </p>
 
 ## Get in touch! 👋
-Always happy to make friends. 
+If you want to chat about Form3 and our amazing, _remote-first_ Engineering Team, feel free to get in touch.
 
 <a href="https://twitter.com/ayforsberg" target="_blank"> <!--Change my link on this line -->
    <img src="https://github.com/adelina-simion-form3/adelina-simion-form3/blob/main/twitter.png?raw=true" width="48"/>
