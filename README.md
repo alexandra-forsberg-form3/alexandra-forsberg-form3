@@ -3,7 +3,7 @@
 ### Talent Lead - Engineering @ Form3<br>
 
 >### About me 👱‍♀️
-Im a Swede 🇸🇪, living in the UK 🇬🇧. I joined Form3 in 2018 as employee numver 40. I now co-lead our engineering hiring efforts across Canada, Argentina, UK and Europe. 
+Im a Swede 🇸🇪, living in the UK 🇬🇧. I joined Form3 in 2018 as employee number 40. I now co-lead our engineering hiring efforts across Canada, Argentina, UK and Europe. 
 
 **Pronouns**: She/Her<br>
 **Personality type:** [ISFP-T](https://www.16personalities.com/isfp-personality)<br>
