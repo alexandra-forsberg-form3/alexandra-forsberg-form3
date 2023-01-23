@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Alex.
+# Hi, I'm Alexandra!
 
 ### Talent Lead - Engineering @ Form3<br>
 
->### About me 👱‍♀️
+>### About me 👩‍💻
 Im a Swede 🇸🇪, living in the UK 🇬🇧. I joined Form3 in 2018 as employee number 40. I now co-lead our engineering hiring efforts across Canada, Argentina, UK and Europe. 
 
 **Pronouns**: She/Her<br>
